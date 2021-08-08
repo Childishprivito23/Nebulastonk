@@ -1,0 +1,38 @@
+
+.main-nav{
+ text-align: center;
+}
+.main-nav li{
+    display: inline;
+    text-align: center;
+}
+.main-nav ul{
+    display: inline;
+    text-align: center;
+}
+.logo{
+    text-align: center;
+}
+body{
+    background-color:#16262E;
+    margin: 0%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+a:visited{
+    color:#D6D6D6;
+}
+a:hover{
+    color: #F6F8FF;
+}
+p{
+    color: #D6D6D6;
+}
+
+
+header{
+    border-bottom: 3px #2A4858 solid;
+    text-align: center;
+
+    
+}
